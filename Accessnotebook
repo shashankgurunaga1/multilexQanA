@@ -1,0 +1,5 @@
+
+#Run the following lines in colab to access other notebook module 
+!pip install kora -q
+from kora import drive
+drive.link_nbs()
